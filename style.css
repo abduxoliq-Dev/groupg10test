@@ -1,0 +1,58 @@
+.a{
+    margin-left: 150px;
+}
+.d{
+    margin-left: 800px;
+}
+.s1{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    background-color: #0c5460;
+}
+.s2{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+.s3{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    background-color: #0c5460;
+}
+.s4{
+    width: 100%;
+    height: auto;
+    padding: 30px
+}
+.div{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.btn1{
+    width: 20%;
+}
+.s5{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    background-color: #4e555b;
+}
+.div1{
+    width: 55%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin:  0 auto;
+}
+.img1{
+    width: 40px;
+}
+.btn-success{
+    background-color:#0c5460!important;
+}
